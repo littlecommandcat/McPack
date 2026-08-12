@@ -20,6 +20,13 @@ Minecraft 26.2
       - `gun.mcfunction`
       - `hit.mcfunction`
       - `raycast.mcfunction`
+  - `magic/`
+    - `function/`
+      - `circle.mcfunction`
+      - `magic_circle1.mcfunction`
+      - `magic_circle1.mcfunction`
+      - `star.mcfunction`
+      - `triangle.mcfunction`
   - `misc/`
     - `function/`
       - `load.mcfunction`
