@@ -1,6 +1,7 @@
 {
     "values": [
         "gun:load",
-        "gun:scoreboard"
+        "gun:scoreboard",
+        "scoreboard"
     ]
 }

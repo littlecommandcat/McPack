@@ -1,1 +1,0 @@
-summon zombie ~ ~ ~ {NoAI:1b}

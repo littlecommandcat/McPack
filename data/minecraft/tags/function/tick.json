@@ -1,6 +1,6 @@
 {
     "values": [
-        "gun:suicide-tick",
+        "misc:suicide-tick",
         "gun:gun-tick"
     ]
 }
