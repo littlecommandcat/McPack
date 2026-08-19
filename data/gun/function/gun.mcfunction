@@ -1,1 +1,0 @@
-give @s warped_fungus_on_a_stick[custom_data={gun:1b}, item_name={text:"槍", color:yellow}]

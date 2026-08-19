@@ -1,1 +1,0 @@
-give @s minecraft:carrot_on_a_stick[minecraft:custom_data={SuicideRod:1b},item_name={text:"自殺棒棒",color:red}]

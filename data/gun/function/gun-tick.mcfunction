@@ -1,2 +1,0 @@
-execute as @a[scores={use_gun=1..}] at @s if items entity @s weapon.mainhand minecraft:warped_fungus_on_a_stick[minecraft:custom_data~{gun:1b}] run function gun:fire
-scoreboard players set @a[scores={use_gun=1..}] use_gun 0

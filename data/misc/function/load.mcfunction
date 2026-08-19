@@ -1,1 +1,0 @@
-tellraw @a {"text": "Datapack loaded!", "color": "blue"}

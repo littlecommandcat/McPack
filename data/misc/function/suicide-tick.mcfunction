@@ -1,2 +1,0 @@
-execute as @a[scores={use_suicide=1..}] if items entity @s weapon.mainhand minecraft:carrot_on_a_stick[minecraft:custom_data~{SuicideRod:1b}] run kill @s
-scoreboard players set @a[scores={use_suicide=1..}] use_suicide 0
