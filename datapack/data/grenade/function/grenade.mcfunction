@@ -1,0 +1,1 @@
+give @s snowball[custom_data={grenade:1b}, item_name={text:"手榴彈", color:gold}]

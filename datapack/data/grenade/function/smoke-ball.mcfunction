@@ -1,0 +1,1 @@
+give @s minecraft:slime_ball[custom_data={smoke-ball:1b}, item_name={text:"煙霧彈", color:blue}]

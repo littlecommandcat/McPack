@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item] at @s if items entity @s contents minecraft:slime_ball[custom_data~{smoke-ball:1b}] run function grenade:smoke-explode
