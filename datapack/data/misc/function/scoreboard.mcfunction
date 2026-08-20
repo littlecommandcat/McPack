@@ -1,0 +1,5 @@
+scoreboard objectives add use_gun minecraft.used:minecraft.warped_fungus_on_a_stick
+scoreboard objectives add use_suicide minecraft.used:carrot_on_a_stick
+scoreboard objectives add gun_ray dummy
+scoreboard objectives add normal_gun_cooldown dummy
+scoreboard objectives add sniper_gun_cooldown dummy
