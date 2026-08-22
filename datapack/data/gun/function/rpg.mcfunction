@@ -1,0 +1,1 @@
+give @s warped_fungus_on_a_stick[custom_data={rpg:1b}, item_name={text:"火箭筒", color:yellow}]
