@@ -4,7 +4,9 @@
 
 ### Main
 
-Minecraft 26.2
+Minecraft 26.2+
+
+部分檔案遷移或新增不會記錄於此，請自行尋找commit並以專案結構為主。
 
 - `data/`
   - `minecraft/`
