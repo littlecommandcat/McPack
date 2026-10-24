@@ -58,6 +58,10 @@
     "cactus",
     "brown_mushroom",
     "red_mushroom",
-    "azalea"
+    "azalea",
+    "chest",
+
+    "#minecraft:fences",
+    "#minecraft:fence_gates"
   ]
 }
